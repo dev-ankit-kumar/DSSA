@@ -5,6 +5,7 @@ using topologicalSort, Kahan's algo
 using namespace std;
 // class tampleting
 template <typename T>
+
 class Giraff
 {
 public:
